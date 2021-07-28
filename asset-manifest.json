@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/car-prices/static/css/main.a617e044.chunk.css",
+    "main.js": "/car-prices/static/js/main.e96b009d.chunk.js",
+    "main.js.map": "/car-prices/static/js/main.e96b009d.chunk.js.map",
+    "runtime-main.js": "/car-prices/static/js/runtime-main.0919029c.js",
+    "runtime-main.js.map": "/car-prices/static/js/runtime-main.0919029c.js.map",
+    "static/js/2.31e0b9f0.chunk.js": "/car-prices/static/js/2.31e0b9f0.chunk.js",
+    "static/js/2.31e0b9f0.chunk.js.map": "/car-prices/static/js/2.31e0b9f0.chunk.js.map",
+    "static/js/3.8f85679b.chunk.js": "/car-prices/static/js/3.8f85679b.chunk.js",
+    "static/js/3.8f85679b.chunk.js.map": "/car-prices/static/js/3.8f85679b.chunk.js.map",
+    "index.html": "/car-prices/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/car-prices/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.31e0b9f0.chunk.js.LICENSE.txt": "/car-prices/static/js/2.31e0b9f0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/car-prices/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0919029c.js",
+    "static/js/2.31e0b9f0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e96b009d.chunk.js"
+  ]
+}
