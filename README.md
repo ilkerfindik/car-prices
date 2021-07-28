@@ -1,3 +1,7 @@
+# Deploying
+Enter ```npm run deploy```, this will use ```gh-pages -d build``` to deploy to Github pages
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
